@@ -1,9 +1,10 @@
 # Hi I'm Sam 🤙️
-alks dlkamsld kalsk dn lansdlnal s ndlansldn alsndlaknsldnalsndla nsldnalsnd. alks dlkamsld kalsk dn lansdlnal s ndlansldn alsndlaknsldnalsndla nsldnalsnd. alks dlkamsld kalsk dn lansdlnal s ndlansldn alsndlaknsldnalsndla nsldnalsnd. alks dlkamsld kalsk dn lansdlnal s ndlansldn alsndlaknsldnalsndla nsldnalsnd.alks dlkamsld kalsk dn lansdlnal s ndlansldn alsndlaknsldnalsndla nsldnalsnd.  
+I'm passionate about solving problems with code and creating tools that provide value. Im a dedicated life-long learner and I see every roadblock as an opportunity to increase my knowledge and capabilities.
 
-kalsk dn lansdlnal s ndlansldn alsndlaknsldnalsndla nsldnalsnd. alks dlkamsld kalsk dalks dlkamsld kalsk dn lansdlnal s ndlansldn alsndlaknsldnalsndla nsldnalsnd.
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=svrourke&count_private=true&show_icons=true&theme=tokyonight)
 
-alks dlkamsld kalsk dn lansdlnal s ndlansldn alsndlaknsldnalsndla nsldnalsnd.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRourke&layout=compact&theme=tokyonight)](https://github.com/SVRourke/github-readme-stats)
+
 <br><br>
 
 # My Projects:
@@ -38,13 +39,6 @@ A pandemic inspired remote learning solution for pop quizzes<br>
 [repo](https://github.com/SVRourke/quizzical)
 <br><br>
 
-## Techs I use
-| languages | Frameworks | tools |
-| - | :-: | -: |
-| Ruby | Ruby On Rails | figma |
-| JavaScript | React.js | Inkscape |
-| Python |  | test |
-| Sass |  | test |
 
 
 
@@ -56,6 +50,6 @@ A pandemic inspired remote learning solution for pop quizzes<br>
 
 
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=svrourke&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRourke&layout=compact&theme=tokyonight)](https://github.com/SVRourke/github-readme-stats)
+
+
