@@ -5,7 +5,8 @@ I'm passionate about solving problems with code and creating tools that provide 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRourke&layout=compact&theme=tokyonight)](https://github.com/SVRourke/github-readme-stats)
 
-<br><br>
+<br/>
+<br/>
 
 # My Projects:
 
@@ -39,17 +40,4 @@ A pandemic inspired remote learning solution for pop quizzes<br>
 [repo](https://github.com/SVRourke/quizzical)
 <br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# My Blog
