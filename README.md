@@ -50,7 +50,7 @@ I’m a full stack developer located in south Florida. 🐊 My primary stack is 
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=svrourke&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRourke&layout=compact&theme=tokyonight)](https://github.com/SVRourke/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRourke&layout=compact&theme=tokyonight)](https://github.com/SVRourke/github-readme-stats) -->
 
 <!-- # My Projects:
 
